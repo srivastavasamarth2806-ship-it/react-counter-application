@@ -1,0 +1,24 @@
+.main-div{
+  color: lightblue;
+  background-color: pink ;
+  padding: 10px;
+  position: relative;
+  justify-content: space-between; 
+  text-align: center;
+}
+.para{
+  text-align: center;
+  font-size: 120px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+.counter-button{
+  margin: 0 10px;
+  background-color: lightblue;
+  border: none;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
