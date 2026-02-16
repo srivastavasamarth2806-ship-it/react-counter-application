@@ -31,47 +31,45 @@ react-counter-application/
 ## ▶️ How to Run Locally
 
 1. Clone the repository
-
-
-git clone https://github.com/srivastavasamarth2806-ship-it/react-counter-application.git
+  git clone https://github.com/srivastavasamarth2806-ship-it/react-counter-application.git
 2.Navigate into the project folder
 
-cd react-counter-application
+  cd react-counter-application
 
 
 3.Install dependencies
 
-npm install
+  npm install
 
 
 4.Start the development server
 
-npm start
+  npm start
 
 
 5.The app will run at:
 
-http://localhost:3000
+  http://localhost:3000
 📸 Preview
 
 Displays a counter number centered on the screen with three buttons:
 
-INCREMENT
+  INCREMENT
 
-DECREMENT
+  DECREMENT
 
-RESET
+  RESET
 
-Purpose
+Purpose:-
 
-This project was created to practice:
+  This project was created to practice:
 
-React functional components
+    React functional components
 
-React useState hook
+    React useState hook
 
-Event handling
+    Event handling
 
-Basic CSS layout and styling
+    Basic CSS layout and styling
 
-Git & GitHub workflow
+    Git & GitHub workflow
